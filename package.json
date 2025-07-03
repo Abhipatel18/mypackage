@@ -1,0 +1,9 @@
+{
+  "name": "@Abhipatel18/mypackage",
+  "version": "1.0.0",
+  "description": "A simple utility package",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
